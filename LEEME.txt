@@ -1,0 +1,17 @@
+CENTRO SILERA - VERSION MEJORADA
+================================
+
+PARA VER LA PAGINA EN WINDOWS
+
+1. Extrae completamente el archivo ZIP.
+2. Abre la carpeta extraida.
+3. Haz doble clic en INICIAR_PREVIEW.bat.
+4. La pagina se abrira en http://127.0.0.1:4173
+
+Para cerrar el preview, cierra la ventana negra o presiona Ctrl+C.
+
+La carpeta dist contiene la version compilada lista para publicarse.
+Las carpetas assets y public contienen los archivos editables del proyecto.
+
+No se incluyeron fotografias reales del centro. La galeria mantiene
+ilustraciones claramente identificadas hasta que se agreguen fotos autorizadas.

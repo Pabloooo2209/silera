@@ -1,0 +1,15 @@
+{
+  "name": "silera-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/validate.mjs && node --check assets/core.js && node --check assets/enhancements.js && node --check preview-server.mjs",
+    "check": "npm test && npm run build && node scripts/validate-build.mjs"
+  },
+  "devDependencies": {
+    "vite": "8.0.13"
+  }
+}
