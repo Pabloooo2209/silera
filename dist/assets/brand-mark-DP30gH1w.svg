@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Centro Silera</title>
+  <desc id="desc">Marca ilustrativa con la letra S</desc>
+  <rect width="64" height="64" rx="18" fill="#0E2240"/>
+  <path d="M11 39C7 24 17 11 31 11c10-1 18 8 18 18 1 13-9 24-20 24-12 2-16 0-18-14Z" fill="#FF6B3D"/>
+  <path d="M34 11c9-6 20 0 20 10 1 10-10 17-18 12-8-4-9-17-2-22Z" fill="#FFC23C"/>
+  <circle cx="33" cy="24" r="7" fill="#1FA98C"/>
+  <text x="32" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="900" fill="#fff">S</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "Centro Pedagógico Infantil Silera",
+  "short_name": "Centro Silera",
+  "description": "Educación y cuidado infantil en Santo Domingo.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF9F0",
+  "theme_color": "#0E2240",
+  "icons": [
+    {
+      "src": "./assets/brand-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
